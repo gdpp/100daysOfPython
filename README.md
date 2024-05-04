@@ -19,7 +19,8 @@
 
 ## Structure
 
-1. [Day 1 - Beginner - Working with Variables in Python to Manage Data](day-1/README.md)
+-   [Day 1 - Beginner - Working with Variables in Python to Manage Data](day-1/README.md)
+-   [Day 2 - Beginner - Understanding Data Types and How to Manipulate Strings](day-2/README.md)
 
 ## Documentation
 
