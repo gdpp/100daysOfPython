@@ -37,11 +37,11 @@ For this project, this is the way used to resolved:
 
 #### Step 3: Computer Choice
 
-Generate the computer's choice randomly. You can use random.choice() to select an item randomly from a list of options.
+-   Generate the computer's choice randomly. You can use random.choice() to select an item randomly from a list of options.
 
 #### Step 4: Determine the Winner
 
-Use conditional statements to compare the user's choice and the computer's choice based on the rules:
+-   Use conditional statements to compare the user's choice and the computer's choice based on the rules:
 
     Rock beats Scissors
     Scissors beats Paper
@@ -54,7 +54,7 @@ Use conditional statements to compare the user's choice and the computer's choic
 2. Run the script:
 
 ```bash
-    python text_adventure.py
+    python game.py
 ```
 
 [Go to Home](../README.md)

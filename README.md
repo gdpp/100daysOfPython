@@ -31,6 +31,8 @@
 -   [**Day 2** - Understanding Data Types and How to Manipulate Strings](day-2/README.md)
 -   [**Day 3** - Control Flow and Logical Operators](day-3/README.md)
 -   [**Day 4** - Randomisation and Python Lists](day-4/README.md)
+-   [**Day 5** - Python Loops](day-5/README.md)
+-   [**Day 6** - Python Functions & Karel](day-6/README.md)
 
 ## Intermediate
 
