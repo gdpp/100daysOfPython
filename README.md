@@ -30,6 +30,7 @@
 -   [**Day 1** - Working with Variables in Python to Manage Data](day-1/README.md)
 -   [**Day 2** - Understanding Data Types and How to Manipulate Strings](day-2/README.md)
 -   [**Day 3** - Control Flow and Logical Operators](day-3/README.md)
+-   [**Day 4** - Randomisation and Python Lists](day-4/README.md)
 
 ## Intermediate
 
