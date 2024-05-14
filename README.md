@@ -33,6 +33,14 @@
 -   [**Day 4** - Randomisation and Python Lists](day-4/README.md)
 -   [**Day 5** - Python Loops](day-5/README.md)
 -   [**Day 6** - Python Functions & Karel](day-6/README.md)
+-   [**Day 7** - _Hangman Checkpoint Project_](day-7/README.md)
+-   [**Day 8** - Function Parameters & Caesar Cipher]()
+-   [**Day 9** - Dictionaries, Nesting and the Secret Auction]()
+-   [**Day 10** - Functions with Outputs]()
+-   [**Day 11 - The Blackjack Capstone Project**]()
+-   [**Day 12** - Scope & Number Guessing Game]()
+-   [**Day 13** - Debugging: How to Find and Fix Errors in your Code]()
+-   [**Day 14** - Higher Lower Game Project]()
 
 ## Intermediate
 
