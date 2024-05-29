@@ -35,7 +35,7 @@
 -   [**Day 6** - Python Functions & Karel](day-6/README.md)
 -   [**Day 7** - _Hangman Checkpoint Project_](day-7/README.md)
 -   [**Day 8** - Function Parameters & Caesar Cipher]()
--   [**Day 9** - Dictionaries, Nesting and the Secret Auction]()
+-   [**Day 9** - Dictionaries, Nesting and the Secret Auction](day-9/README.md)
 -   [**Day 10** - Functions with Outputs]()
 -   [**Day 11 - The Blackjack Capstone Project**]()
 -   [**Day 12** - Scope & Number Guessing Game]()
