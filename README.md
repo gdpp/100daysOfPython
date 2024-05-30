@@ -37,7 +37,7 @@
 -   [**Day 8** - Function Parameters & Caesar Cipher]()
 -   [**Day 9** - Dictionaries, Nesting and the Secret Auction](day-9/README.md)
 -   [**Day 10** - Functions with Outputs](day-10/README.md)
--   [**Day 11 - The Blackjack Capstone Project**]()
+-   [**Day 11 - The Blackjack Capstone Project**](day-11/README.md)
 -   [**Day 12** - Scope & Number Guessing Game]()
 -   [**Day 13** - Debugging: How to Find and Fix Errors in your Code]()
 -   [**Day 14** - Higher Lower Game Project]()
