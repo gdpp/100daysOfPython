@@ -40,7 +40,7 @@
 -   [**Day 11 - The Blackjack Capstone Project**](day-11/README.md)
 -   [**Day 12** - Scope & Number Guessing Game]()
 -   [**Day 13** - Debugging: How to Find and Fix Errors in your Code]()
--   [**Day 14** - Higher Lower Game Project]()
+-   [**Day 14** - **FINAL BEGINNER PROJECT** - Higher Lower Game Project](day-14/README.md)
 
 ## Intermediate
 
