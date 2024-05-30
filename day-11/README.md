@@ -106,6 +106,16 @@ Defines the main components of the game:
  Game Section: Implement player and dealer turn logic.
  Result Section: Determine and show the winner. -->
 
+## Project Structure:
+
+<!--
+```mermaid
+    mindmap
+    root((hangman.py))
+        hangman_art.py
+        hangman_words.py
+``` -->
+
 1. Run the script:
 
 ```bash
