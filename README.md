@@ -36,7 +36,7 @@
 -   [**Day 7** - _Hangman Checkpoint Project_](day-7/README.md)
 -   [**Day 8** - Function Parameters & Caesar Cipher]()
 -   [**Day 9** - Dictionaries, Nesting and the Secret Auction](day-9/README.md)
--   [**Day 10** - Functions with Outputs]()
+-   [**Day 10** - Functions with Outputs](day-10/README.md)
 -   [**Day 11 - The Blackjack Capstone Project**]()
 -   [**Day 12** - Scope & Number Guessing Game]()
 -   [**Day 13** - Debugging: How to Find and Fix Errors in your Code]()
