@@ -82,17 +82,6 @@ Develop logic to determine the outcome of the game:
 -   Compare Hands: Compare the values ​​of the player's and dealer's hands.
 -   Determine Result: Decide the winner based on who has the highest value without going over 21.
 
-<!--
-###### Add Additional Features
-
-Enhance the game with optional features:
-
-
- Betting: Allow players to place bets at the start of the game.
- Multiple Players: Adapt functions to handle multiple players in a game.
- Card Division (Split): Allow the player to split the hand if the first two cards are the same.
- -->
-
 ###### Suggested Code Structure
 
 Divide your code into sections to keep it organized:
@@ -104,13 +93,12 @@ Divide your code into sections to keep it organized:
 
 ## Project Structure:
 
-<!--
 ```mermaid
     mindmap
-    root((hangman.py))
-        hangman_art.py
-        hangman_words.py
-``` -->
+    root((main.py))
+        players.py
+        cards.py
+```
 
 1. Run the script:
 
