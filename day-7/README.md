@@ -1,4 +1,4 @@
-# Day 7
+# Hangman Checkpoint Project (Day 7)
 
 ## Objectives
 
@@ -45,4 +45,4 @@ Also I added some additional features to enhance the game:
     python hangman.py
 ```
 
-[Go to Home](../README.md)
+[Go Back](../README.md)

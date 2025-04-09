@@ -1,4 +1,4 @@
-# Day 4
+# Randomisation and Python Lists (Day 4)
 
 ## Objectives
 
@@ -20,6 +20,10 @@ In this day I learned about:
 -   **sort(key=None, reverse=False)** - Sorts the items of the list in place (the arguments can be used for sort customization).
 -   **reverse()** - Reverses the elements of the list in place.
 -   **copy()** - Returns a shallow copy of the list.
+
+## Practices
+
+1. Random seat
 
 ## Project of the day
 
@@ -57,4 +61,4 @@ For this project, this is the way used to resolved:
     python game.py
 ```
 
-[Go to Home](../README.md)
+[Go Back](../README.md)

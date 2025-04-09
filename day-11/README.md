@@ -1,4 +1,4 @@
-# Day 11
+# The Blackjack Capstone Project (Day 11)
 
 ## Objectives
 
@@ -22,6 +22,7 @@ In this day I applied all the learbed topics in the past week such as:
 -   Code blocks
 -   Functions with parameters
 -   Functions that return values
+-   Dictionaries
 
 ## Project of the day
 
