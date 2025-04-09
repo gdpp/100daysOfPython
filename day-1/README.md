@@ -1,4 +1,4 @@
-# Day 1
+# Working with Variables in Python to Manage Data (Day 1)
 
 ## Objectives
 
@@ -10,25 +10,20 @@ In this day I learned about:
 -   Variables
 -   String Manipulation
 
+## Practices
+
+1. Personal Message 
+2. Name Manipulation
+
 ## Project of the day
 
-**Band Name Generator**
+1. Band Name Generator
 
-```python
-    print('Welcome to the Band Name Generator ')
-    print('===================================')
-
-    city = input("Which city did you grow up in? ")
-
-    pet = input("What is the name of a pet? ")
-
-    print("Your band name could be: " + city  + " " + pet)
-```
-
-2. Run the script:
+- Run the project:
 
 ```bash
     python band_name_generator.py
 ```
 
-[Go to Home](../README.md)
+[Go Back](../README.md)
+
