@@ -1,4 +1,4 @@
-# Day 3
+# Control Flow and Logical Operators (Day 3)
 
 ## Objectives
 
@@ -9,13 +9,17 @@ In this day I learned about:
 -   Code blocks
 -   Scope
 
+## Practice
+
+1. Leap year
+
 ## Project of the day
 
-**Text Adventure**
+1. Text Adventure
 Diagram of the text adventure:
 ![diagram](textAdv.png)
 
-2. Run the script:
+- Run the script:
 
 ```bash
     python text_adventure.py

@@ -28,19 +28,20 @@
 ## Beginner
 
 -   **Day 1:** [Working with Variables in Python to Manage Data](day-1/README.md)
-<!-- -   [**Day 2** - Understanding Data Types and How to Manipulate Strings](day-2/README.md)
--   [**Day 3** - Control Flow and Logical Operators](day-3/README.md)
--   [**Day 4** - Randomisation and Python Lists](day-4/README.md)
--   [**Day 5** - Python Loops](day-5/README.md)
--   [**Day 6** - Python Functions & Karel](day-6/README.md)
--   [**Day 7** - _Hangman Checkpoint Project_](day-7/README.md)
--   [**Day 8** - Function Parameters & Caesar Cipher]()
--   [**Day 9** - Dictionaries, Nesting and the Secret Auction](day-9/README.md)
--   [**Day 10** - Functions with Outputs](day-10/README.md)
--   [**Day 11 - The Blackjack Capstone Project**](day-11/README.md)
--   [**Day 12** - Scope & Number Guessing Game]()
--   [**Day 13** - Debugging: How to Find and Fix Errors in your Code]()
--   [**Day 14** - **FINAL BEGINNER PROJECT** - Higher Lower Game Project](day-14/README.md) -->
+-   **Day 2** [Understanding Data Types and How to Manipulate Strings](day-2/README.md)
+-   **Day 3** [Control Flow and Logical Operators](day-3/README.md)
+<!-- 
+-   **Day 4** [Randomisation and Python Lists](day-4/README.md)
+-   **Day 5** [Python Loops](day-5/README.md)
+-   **Day 6** [Python Functions & Karel](day-6/README.md)
+-   **Day 7** [_Hangman Checkpoint Project_](day-7/README.md)
+-   **Day 8** [Function Parameters & Caesar Cipher]()
+-   **Day 9** [Dictionaries, Nesting and the Secret Auction](day-9/README.md)
+-   **Day 10** [Functions with Outputs](day-10/README.md)
+-   **Day 11** [The Blackjack Capstone Project](day-11/README.md)
+-   **Day 12** [Scope & Number Guessing Game]()
+-   **Day 13** [Debugging: How to Find and Fix Errors in your Code]()
+-   **Day 14** [**FINAL BEGINNER PROJECT** - Higher Lower Game Project](day-14/README.md) -->
 
 <!-- ## Intermediate
 

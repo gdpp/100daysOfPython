@@ -1,4 +1,4 @@
-# Day 2
+# Understanding Data Types and How to Manipulate Strings (Day 2)
 
 ## Objectives
 
@@ -35,7 +35,7 @@ In this day I learned about:
     7 - 4
     3 * 2
     6 / 3
-    2 ** 3 #8
+    2 ** 3 # 8
 
     # PEMDAS
     # Parentheses ()
@@ -44,30 +44,19 @@ In this day I learned about:
     # Addition + & Subtraction -
 ```
 
+## Practices
+
+1. Age calculator
+2. Name Analyzer
+
 ## Project of the day
 
-**Tip Calculator**
+1. Tip Calculator
 
-```python
-    print("===================================")
-    print("== Welcome to the TIP CALCULATOR ==")
-    print("===================================")
-
-    bill = float(input("What was the total bill? $"))
-    tip = int(input("How much tip would you like to give? 10, 12 or 15? "))
-    ppl = int(input("How many people to split the bill? "))
-
-    tip_percent = 1 + tip / 100
-
-    result = round((bill / ppl) * tip_percent, 2)
-
-    print(f"Each person should pay: ${result}")
-```
-
-2. Run the script:
+- Run the script:
 
 ```bash
     python tip_calculator.py
 ```
 
-[Go to Home](../README.md)
+[Go Back](../README.md)
