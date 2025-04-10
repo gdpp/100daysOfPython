@@ -1,71 +1,79 @@
-"""
-Blackjack Project
-Understand the Rules of the Game
+from cards import create_deck, shuffle_deck, deal_card
+from players import calculate_hand_value, is_busted, show_hand
 
-    -   The objective is to score 21 points or get as close as possible without going over.
-    -   Players compete against the dealer, not each other.
-    -   Cards 2 to 10 are worth their face value
-    -   Face cards (J, Q, K) are worth 10 points
-    -   The Ace can be worth 1 or 11 points.
-    -   Each player initially receives two cards, and can hit (get more) or stand.
+def player_turn(deck, player_hand):
+    """ Player's turn logic. """
+    while True:
+        print("======")
+        show_hand('Player', player_hand)
+        print("======")
+        action = input("Do you want to [h]it or [s]tand? ").lower()
+        
+        if action == 'h':
+            card = deal_card(deck)
+            player_hand.append(card)
+            print(f"You drew: {card}")
+            
+            if is_busted(player_hand):
+                show_hand('Player', player_hand)
+                print("You busted! Game over.")
+                return False  # Over 21, Lost
+        elif action == 's':
+            break
+        else:
+            print("Invalid choice. Please choose 'h' or 's'.")
+    
+    return True  # Player chose (stand)
 
-Game Design
-Defines the main components of the game
+def dealer_turn(deck, dealer_hand):
+    """ Dealer's turn logic """
+    while calculate_hand_value(dealer_hand) < 16:
+        card = deal_card(deck)
+        dealer_hand.append(card)
+        print(f"Dealer drew: {card}")
 
-    -   Cards and Deck: Create a standard deck of 52 cards.
-    -   Players: Include at least one player and the dealer.
-    -   Game Mechanics: Handle the actions of hit, stand and determine the winner.  
-"""
+def game():
+    """ Main Game Loop. """
+    deck = create_deck()
+    
+    shuffle_deck(deck)
 
-def main():
-    pass
+    #Initial hands
+    player_hand = [deal_card(deck), deal_card(deck)]
+    dealer_hand = [deal_card(deck), deal_card(deck)]
+    
+    print("♣ ♦ ♥ ♠ Welcome to Blackjack ♠ ♥ ♦ ♣")
+    
+    # Show initial hands
+    show_hand('Dealer', dealer_hand, is_dealer=True)
+    show_hand('Player', player_hand)
 
+    # Player's turn
+    if not player_turn(deck, player_hand):
+        print("You lost!")
+        return
+    
+    # Dealers' turn
+    dealer_turn(deck, dealer_hand)
+    show_hand('Dealer', dealer_hand)
+    
+    # Calculate result
+    player_score = calculate_hand_value(player_hand)
+    dealer_score = calculate_hand_value(dealer_hand)
+    
+    print(f"Your score: {player_score}")
+    print(f"Dealer's score: {dealer_score}")
+    
+    if player_score > 21:
+        print("You busted! Dealer wins.")
+    elif dealer_score > 21:
+        print("Dealer busted! You win.")
+    elif player_score > dealer_score:
+        print("You win!")
+    elif player_score < dealer_score:
+        print("Dealer wins.")
+    else:
+        print("It's a tie!")
 
-#init game
-main()
-
-
-# Implementa la lógica para inicializar una nueva partida:
-
-#     Crear y Mezclar la Baraja: Crea una lista que represente una baraja de cartas y mézclala aleatoriamente.
-#     Repartir Cartas: Reparte dos cartas a cada jugador y al crupier.
-
-# Paso 4: Implementar las Funciones Principales
-
-# Divide el juego en funciones específicas:
-
-
-
-#     Calcular Valor de la Mano: Una función para calcular el valor de la mano de un jugador o del crupier.
-#     Mostrar Cartas: Una función para mostrar las cartas de un jugador y la carta visible del crupier.
-
-# Paso 5: Implementar el Turno del Jugador
-
-# Permitir que el jugador tome decisiones:
-
-#     Pedir Cartas (Hit): Añadir una carta a la mano del jugador y verificar si ha excedido 21 puntos.
-#     Plantarse (Stand): Finalizar el turno del jugador.
-
-# Paso 6: Implementar el Turno del Crupier
-
-# Definir las reglas para el crupier:
-
-#     Reglas del Crupier: El crupier debe pedir cartas hasta alcanzar al menos 17 puntos.
-#     Mostrar Cartas del Crupier: Una vez que el crupier termina su turno, mostrar todas sus cartas.
-
-# Paso 7: Determinar el Ganador
-
-# Desarrollar la lógica para determinar el resultado del juego:
-
-#     Comparar Manos: Comparar los valores de las manos del jugador y del crupier.
-#     Determinar Resultado: Decidir el ganador basado en quién tiene el valor más alto sin pasarse de 21.
-
-
-# Estructura Sugerida del Código
-
-# Divide tu código en secciones para mantenerlo organizado:
-
-#     Sección de Inicialización: Crear la baraja y mezclarla.
-#     Sección de Reparto: Repartir cartas a los jugadores y al crupier.
-#     Sección de Juego: Implementar la lógica del turno del jugador y del crupier.
-#     Sección de Resultado: Determinar y mostrar el ganador.
+if __name__ == "__main__":
+    game()

@@ -107,4 +107,4 @@ Divide your code into sections to keep it organized:
     python main.py
 ```
 
-[Go to Home](../README.md)
+[Go Back](../README.md)
