@@ -20,12 +20,12 @@
 ## Structure
 
 -   [Day 1 to Day 14 - Beginner](#beginner)
-<!-- -   [Day 15 to Day 44 - Intermediate](#intermediate)
+-   [Day 15 to Day 44 - Intermediate](#intermediate)
 -   [Day 45 to Day 58 - Intermediate+](#intermediate+)
 -   [Day 59 to Day 81 - Advanced](#advanced)
--   [Day 82 to Day 100 - Professional](#professional) -->
+-   [Day 82 to Day 100 - Professional](#professional) 
 
-## Beginner
+## Beginner:
 
 -   **Day 1:** [Working with Variables in Python to Manage Data](day-1/README.md)
 -   **Day 2** [Understanding Data Types and How to Manipulate Strings](day-2/README.md)
@@ -33,23 +33,25 @@
 -   **Day 4** [Randomisation and Python Lists](day-4/README.md)
 -   **Day 5** [Python Loops](day-5/README.md)
 -   **Day 6** [Python Functions & Karel](day-6/README.md)
--   **Day 7** [_Hangman Checkpoint Project_](day-7/README.md)
+-   **Day 7** _Checkpoint Project_ [Hangman](day-7/README.md)
 -   **Day 8** [Function Parameters & Caesar Cipher](day-8/README.md)
 -   **Day 9** [Dictionaries, Nesting and the Secret Auction](day-9/README.md)
--   **Day 10** **CAPSTONE PROJECT** [Functions with Outputs](day-10/README.md)
+-   **Day 10 CAPSTONE PROJECT** [Functions with Outputs](day-10/README.md)
 -   **Day 11** [The Blackjack](day-11/README.md)
 -   **Day 12** [Scope & Number Guessing Game]()
 -   **Day 13** [Debugging: How to Find and Fix Errors in your Code]()
-<!-- 
--   **Day 14** **FINAL BEGINNER PROJECT** [Higher Lower Game Project](day-14/README.md) -->
+-   **Day 14 FINAL BEGINNER PROJECT** [Higher Lower Game Project](day-14/README.md)
 
-<!-- ## Intermediate
+## Intermediate:
 
-## Intermediate+
+-   **Day 15:** [Local Development Environment Setup & the Coffee Machine]()
+-   **Day 16:** [Object Oriented Programming (OOP)]()
 
-## Advanced
+## Intermediate+:
 
-## Professional -->
+## Advanced:
+
+## Professional:
 
 ## Documentation
 
