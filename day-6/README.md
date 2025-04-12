@@ -8,4 +8,4 @@ In this day I learned about:
 -   Code blocks
 -   While loops
 
-[Go to Home](../README.md)
+[Go Back](../README.md)

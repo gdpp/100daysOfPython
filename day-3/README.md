@@ -25,4 +25,4 @@ Diagram of the text adventure:
     python text_adventure.py
 ```
 
-[Go to Home](../README.md)
+[Go Back](../README.md)
