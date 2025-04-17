@@ -47,6 +47,13 @@
 -   **Day 15:** [Local Development Environment Setup & the Coffee Machine]()
 -   **Day 16:** [Object Oriented Programming (OOP)]()
 -   **Day 17:** [The Quiz Project & the Benefits of OOP](day-17/README.md)
+-   **Day 18:** [Turtle & the Graphical User Interface (GUI)]()
+-   **Day 19:** [Instances, State and High Order Functions]()
+-   **Day 20 - 21:** [Build the Snake Game]()
+-   **Day 22:** [Build Pong Game]()
+-   **Day 23 CAPSTONE PROJECT** [Turtle Crossing]()
+-   **Day 24** [Files, Directories and Paths]()
+-   **Day 25** [Working with CSV Data and the Pandas Library]()
 
 ## Intermediate+:
 
