@@ -54,8 +54,16 @@
 -   **Day 23 CAPSTONE PROJECT** [Turtle Crossing]()
 -   **Day 24** [Files, Directories and Paths]()
 -   **Day 25** [Working with CSV Data and the Pandas Library]()
+-   **Day 26** [List Comprehension and the NATO Alphabet](day-26/README.md)
+-   **Day 27** [TKinter, *args, **kwargs and Creating GUI Programs](day-27)
+-   **Day 28** [TKinter Dynamic typing and The Pomodor GUI App]()
+-   **Day 29** [Builidng a password manager]()
+-   **Day 30** [Errors, Exceptions and JSON Data]()
+-   **Day 31 CAPSTONE PROJECT** [Flash Card App]()
 
 ## Intermediate+:
+
+-   **Day 32** [Send Emails (smtplib) & Manage dates (datetime)]()
 
 ## Advanced:
 
