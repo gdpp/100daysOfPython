@@ -19,11 +19,14 @@
 
 ## Structure
 
--   [Day 1 to Day 14 - Beginner](#beginner)
--   [Day 15 to Day 44 - Intermediate](#intermediate)
--   [Day 45 to Day 58 - Intermediate+](#intermediate+)
--   [Day 59 to Day 81 - Advanced](#advanced)
--   [Day 82 to Day 100 - Professional](#professional) 
+- [Table of Contents](#table-of-contents)
+- [Structure](#structure)
+- [Beginner:](#beginner)
+- [Intermediate:](#intermediate)
+- [Intermediate+:](#intermediate-1)
+- [Advanced:](#advanced)
+- [Professional:](#professional)
+- [Documentation](#documentation)
 
 ## Beginner:
 
@@ -63,7 +66,8 @@
 
 ## Intermediate+:
 
--   **Day 32** [Send Emails (smtplib) & Manage dates (datetime)]()
+-   **Day 32** [Send Emails (smtplib) & Manage dates (datetime)](day-32/README.md)
+-   **Day 33** [API Endpoints & API Parameters ISS Overhead Notifier](day-33/README.md)
 
 ## Advanced:
 
