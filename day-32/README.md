@@ -1,1 +1,0 @@
-# Day 32 Send Emails (smtplib) & Manage dates (datetime)

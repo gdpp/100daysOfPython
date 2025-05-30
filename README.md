@@ -66,8 +66,8 @@
 
 ## Intermediate+:
 
--   **Day 32** [Send Emails (smtplib) & Manage dates (datetime)](day-32/README.md)
--   **Day 33** [API Endpoints & API Parameters ISS Overhead Notifier](day-33/README.md)
+-   **Day 32** [Send Emails (smtplib) & Manage dates (datetime)]()
+-   **Day 33** [API Endpoints & API Parameters ISS Overhead Notifier]()
 
 ## Advanced:
 
