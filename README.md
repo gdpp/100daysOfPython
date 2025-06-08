@@ -21,57 +21,118 @@
 
 - [Table of Contents](#table-of-contents)
 - [Structure](#structure)
-- [Beginner:](#beginner)
-- [Intermediate:](#intermediate)
-- [Intermediate+:](#intermediate-1)
-- [Advanced:](#advanced)
-- [Professional:](#professional)
+- [Días 1–10: Fundamentos de Python](#días-110-fundamentos-de-python)
+- [Días 11–20: Principios de programación y estructuras](#días-1120-principios-de-programación-y-estructuras)
+- [Días 21–30: Python Intermedio + Turtle](#días-2130-python-intermedio--turtle)
+- [Días 31–40: Automatización y web scraping](#días-3140-automatización-y-web-scraping)
+- [Días 41–50: Automatización y GUIs](#días-4150-automatización-y-guis)
+- [Días 51–60: Web y Flask](#días-5160-web-y-flask)
+- [Días 61–80: APIs, sitios y más Flask](#días-6180-apis-sitios-y-más-flask)
+- [Días 81–90: Python avanzado y Data Science](#días-8190-python-avanzado-y-data-science)
+- [Días 91–100: Capstone \& Profesión](#días-91100-capstone--profesión)
+- [92–100. Desarrollo de proyectos libres, despliegue, consejos de carrera, GitHub, portfolio, freelancing, entrevistas](#92100-desarrollo-de-proyectos-libres-despliegue-consejos-de-carrera-github-portfolio-freelancing-entrevistas)
 - [Documentation](#documentation)
 
-## Beginner:
+## Días 1–10: Fundamentos de Python
+- Print, input, variables
+- Tipos de datos, operaciones matemáticas
+- Control de flujo (if/else)
+- Bucles for y while
+- Funciones y código reutilizable
+- Funciones con argumentos
+- Alcance de variables
+- Funciones con parámetros predeterminados
+- Diccionarios y listas anidadas
+- Proyecto: Calculadora de amor / Juego
 
--   **Day 1:** [Working with Variables in Python to Manage Data](day-1/README.md)
--   **Day 2** [Understanding Data Types and How to Manipulate Strings](day-2/README.md)
--   **Day 3** [Control Flow and Logical Operators](day-3/README.md)
--   **Day 4** [Randomisation and Python Lists](day-4/README.md)
--   **Day 5** [Python Loops](day-5/README.md)
--   **Day 6** [Python Functions & Karel](day-6/README.md)
--   **Day 7** _Checkpoint Project_ [Hangman](day-7/README.md)
--   **Day 8** [Function Parameters & Caesar Cipher](day-8/README.md)
--   **Day 9** [Dictionaries, Nesting and the Secret Auction](day-9/README.md)
--   **Day 10 CAPSTONE PROJECT** [Functions with Outputs](day-10/README.md)
--   **Day 11** [The Blackjack](day-11/README.md)
--   **Day 12** [Scope & Number Guessing Game]()
--   **Day 13** [Debugging: How to Find and Fix Errors in your Code]()
--   **Day 14 FINAL BEGINNER PROJECT** [Higher Lower Game Project](day-14/README.md)
+## Días 11–20: Principios de programación y estructuras
+- Proyecto: Blackjack
+- Paquetes, módulos y namespaces
+- Debugging
+- Proyecto: Juego de consola
+- Tipos de datos complejos
+- OOP: Clases y objetos
+- Métodos y atributos
+- Constructores (__init__)
+- Herencia
+- Proyecto: Juego con clases
 
-## Intermediate:
+## Días 21–30: Python Intermedio + Turtle
+- Turtle Graphics
+- Control de eventos
+- Proyecto: Juego Pong
+- Lista de listas, slicing
+- Uso de Pandas y CSV
+- Lectura de datos meteorológicos
+- Proyecto: U.S. States Game
+- JSON y manejo de archivos
+- APIs con requests
+- Proyecto: Día de cumpleaños
 
--   **Day 15:** [Local Development Environment Setup & the Coffee Machine]()
--   **Day 16:** [Object Oriented Programming (OOP)]()
--   **Day 17:** [The Quiz Project & the Benefits of OOP](day-17/README.md)
--   **Day 18:** [Turtle & the Graphical User Interface (GUI)]()
--   **Day 19:** [Instances, State and High Order Functions]()
--   **Day 20 - 21:** [Build the Snake Game]()
--   **Day 22:** [Build Pong Game]()
--   **Day 23 CAPSTONE PROJECT** [Turtle Crossing]()
--   **Day 24** [Files, Directories and Paths]()
--   **Day 25** [Working with CSV Data and the Pandas Library]()
--   **Day 26** [List Comprehension and the NATO Alphabet](day-26/README.md)
--   **Day 27** [TKinter, *args, **kwargs and Creating GUI Programs](day-27)
--   **Day 28** [TKinter Dynamic typing and The Pomodor GUI App]()
--   **Day 29** [Builidng a password manager]()
--   **Day 30** [Errors, Exceptions and JSON Data]()
--   **Day 31 CAPSTONE PROJECT** [Flash Card App]()
+## Días 31–40: Automatización y web scraping
+- Automatización con datetime
+- Email con SMTP
+- Web scraping con BeautifulSoup
+- Web scraping avanzado con Selenium
+- Proyecto: Rastreador de vuelos
+- APIs de precios cripto
+- Habit tracker API
+- Proyecto: Post automatizados
+- Proyecto: Rastreador de precios de Amazon
+- Manejo de errores y excepciones
 
-## Intermediate+:
+## Días 41–50: Automatización y GUIs
+- Generador de contraseñas
+- Proyecto: Gestor de contraseñas (Tkinter)
+- Proyecto: Pyperclip + gestión de datos
+- Web scraping con Selenium
+- Automatización de Google Forms
+- Automatización con Python Anywhere
+- Automatización de emails
+- Proyecto: Tracker de hábitos
+- Proyecto: Bot de Twitter
+- Proyecto: Newsletter automática
 
--   **Day 32** [Send Emails (smtplib) & Manage dates (datetime)]()
--   **Day 33** [API Endpoints & API Parameters ISS Overhead Notifier]()
+## Días 51–60: Web y Flask
+- Fundamentos de Flask
+- Flask avanzado: Jinja
+- Flask Forms + Bootstrap
+- Proyecto: Blog con Flask
+- SQLite + SQLAlchemy
+- Relaciones en bases de datos
+- Proyecto: Blog completo con autenticación
+- Autenticación con Flask-Login
+- Roles y permisos
+- Proyecto final de Flask
 
-## Advanced:
+## Días 61–80: APIs, sitios y más Flask
+- REST APIs
+- GraphQL (superficial)
+- Proyecto: RESTful Blog
+- HTML/CSS básico
+- Bootstrap
+- Proyecto: CV online
+- Flask + Frontend
+- Proyecto: Coffee & Wifi Website
+- Proyecto: Formulario + Google Maps
+- Proyecto: Sitio con login y CRUD
 
-## Professional:
+## Días 81–90: Python avanzado y Data Science
+- Decoradores
+- Generadores
+- Argumentos variables
+- Proyecto: Juego Snake con decoradores
+- Numpy
+- Pandas
+- Matplotlib
+- Proyecto: Visualización de datos
+- APIs públicas y Dashboards
+- Proyecto final de análisis
+
+## Días 91–100: Capstone & Profesión
+- Proyecto final: Aplicación completa
+
+## 92–100. Desarrollo de proyectos libres, despliegue, consejos de carrera, GitHub, portfolio, freelancing, entrevistas
 
 ## Documentation
 
