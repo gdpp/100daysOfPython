@@ -1,0 +1,7 @@
+This 
+is 
+a 
+file
+inside 
+a
+folder
