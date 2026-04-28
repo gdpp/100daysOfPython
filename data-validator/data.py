@@ -1,0 +1,62 @@
+users = [
+    {
+        "name": "Gustavo Perez",
+        "age": 28,
+        "email": "gustavo@mail.com",
+        "country": "Mexico",
+    },
+    {
+        "name": "Ana Lopez",
+        "age": 22,
+        "email": "ana.lopez@gmail.com",
+        "country": "USA",
+    },
+    {
+        "name": "John Smith",
+        "age": 35,
+        "email": "john.smith@yahoo.com",
+        "country": "Canada",
+    },
+    {
+        "name": "Maria Torres",
+        "age": 18,
+        "email": "maria18@hotmail.com",
+        "country": "Mexico",
+    },
+    {"name": "", "age": 25, "email": "emptyname@mail.com", "country": "Mexico"},
+    {"name": "   ", "age": 30, "email": "spaces@mail.com", "country": "USA"},
+    {
+        "name": "Carlos Ruiz",
+        "age": 17,
+        "email": "carlos@mail.com",
+        "country": "Mexico",
+    },
+    {
+        "name": "Laura Diaz",
+        "age": 0,
+        "email": "laura@mail.com",
+        "country": "Canada",
+    },
+    {"name": "Pedro Gomez", "age": -5, "email": "pedro@mail.com", "country": "USA"},
+    {
+        "name": "Sofia Ramos",
+        "age": 24,
+        "email": "sofiaemail.com",
+        "country": "Mexico",
+    },
+    {"name": "Miguel Angel", "age": 31, "email": "miguel@", "country": "USA"},
+    {"name": "Emma White", "age": 27, "email": "@gmail.com", "country": "Canada"},
+    {
+        "name": "Daniel Cruz",
+        "age": 29,
+        "email": "daniel@mail.com",
+        "country": "Spain",
+    },
+    {
+        "name": "Olivia Brown",
+        "age": 26,
+        "email": "olivia@mail.com",
+        "country": "Argentina",
+    },
+    {"name": "", "age": 15, "email": "bademail", "country": "Mars"},
+]
