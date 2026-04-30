@@ -23,6 +23,9 @@ def validate_logs(logs):
     for log in logs:
         sp_log = _split_log(log)
 
+        if sp_log is None:
+            continue
+
         if sp_log[0] == "INFO":
             report["info"] = report["info"] + 1
         elif sp_log[0] == "WARNING":
